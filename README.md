@@ -9,4 +9,4 @@ McMillan, H. K. (2020). Linking hydrologic signatures to hydrologic processes: A
 
 McMillan, H. K., Gnann, S. J., & Araki, R. (2022). Large scale evaluation of relationships between hydrologic signatures and processes. Water Resources Research, 58(6), e2021WR031751.
 
-Swenson, S. (2024). Representative Hillslopes v01. available under: DOI:10.5281/zenodo.10987960.
+Swenson, S. (2024). Representative Hillslopes v01 (Code). available under: DOI:10.5281/zenodo.10987960.
